@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WU RAG Frontend</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+<div class="container">
+
+    <h1>WU Vienna RAG System</h1>
+
+    {% if message %}
+    <div class="section" role="status">
+        <p style="margin:0; font-weight:700; color: #dbeafe">{{ message }}</p>
+    </div>
+    {% endif %}
+
+    <form method="POST">
+        <label>Enter your question:</label><br>
+        <textarea name="question" required></textarea><br><br>
+        <button type="submit">Ask</button>
+    </form>
+
+    {% if answer %}
+    <div class="section">
+        <h3>Answer</h3>
+        {% if is_html %}
+        <div>{{ answer | safe }}</div>
+        {% else %}
+        <p>{{ answer }}</p>
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% if citations %}
+    <div class="section">
+        <h3>Citations</h3>
+        <ul>
+            {% for c in citations %}
+            <li>
+                [{{ c.id }}] {{ c.title }} — {{ c.url }} (chunk {{ c.chunk }})
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if gold_answer %}
+    <div class="section">
+        <h3>Gold Answer</h3>
+        <p>{{ gold_answer }}</p>
+    </div>
+    {% endif %}
+
+    {% if metrics %}
+    <div class="section">
+        <h3>Metrics</h3>
+        <div class="metrics">
+            <span><b>Exact Match:</b> {{ metrics.exact_match }}</span>
+            <span><b>Precision:</b> {{ metrics.precision }}</span>
+            <span><b>Recall:</b> {{ metrics.recall }}</span>
+            <span><b>F1:</b> {{ metrics.f1 }}</span>
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+</body>
+</html>
