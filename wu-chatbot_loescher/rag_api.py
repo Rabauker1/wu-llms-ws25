@@ -15,16 +15,29 @@ import logging
 from html import escape
 from typing import Optional
 import os
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Config
 CHROMA_DB_DIR = "chroma_wu_db"
 COLLECTION_NAME = "wu_corpus"
-LLAMA_MODEL = "llama3.1:8b"       # Ollama model (use ollama list to see available models)
 TOP_K = 5
+
+# Option 1: Use Ollama (remote or local Ollama server)
+USE_OLLAMA = True
+OLLAMA_MODEL = "llama3.1:8b"  # Use `ollama list` to see available models
+
+# Option 2: Use local fine-tuned model
+#USE_OLLAMA = False
+LOCAL_MODEL_PATH = "./wu_llm_finetuned"  # Path to your fine-tuned model
 
 # Lazy-initialized Chroma client/collection to avoid import-time DB loading
 _chroma_client: Optional[chromadb.PersistentClient] = None
 _chroma_collection = None
+
+# Lazy-initialized local model & tokenizer
+_local_model = None
+_local_tokenizer = None
 
 
 def get_chroma_collection():
@@ -75,8 +88,74 @@ class QueryRequest(BaseModel):
     top_k: int | None = TOP_K
 
 
-# Call Ollama locally
-def call_ollama(prompt: str, model: str = LLAMA_MODEL) -> str:
+def get_local_model():
+    """Lazy-load the local fine-tuned model and tokenizer."""
+    global _local_model, _local_tokenizer
+    if _local_model is not None:
+        return _local_model, _local_tokenizer
+    
+    logging.info(f"Loading local model from {LOCAL_MODEL_PATH}...")
+    _local_tokenizer = AutoTokenizer.from_pretrained(LOCAL_MODEL_PATH)
+    _local_model = AutoModelForCausalLM.from_pretrained(
+        LOCAL_MODEL_PATH,
+        torch_dtype=torch.float32,
+        device_map=None
+    )
+    logging.info("Local model loaded successfully")
+    return _local_model, _local_tokenizer
+
+
+def call_local_model(prompt: str, max_length: int = 2048) -> str:
+    """Generate answer using local fine-tuned model."""
+    model, tokenizer = get_local_model()
+    
+    # Format prompt using chat template
+    messages = [
+        {"role": "user", "content": prompt}
+    ]
+    
+    # Apply chat template
+    formatted_prompt = tokenizer.apply_chat_template(
+        messages, 
+        tokenize=False, 
+        add_generation_prompt=True
+    )
+    
+    # Tokenize input
+    inputs = tokenizer(formatted_prompt, return_tensors="pt", truncation=True, max_length=max_length)
+    input_length = inputs['input_ids'].shape[1]
+    
+    logging.info(f"Generating answer with local model (input tokens: {input_length})...")
+    
+    # Generate
+    with torch.no_grad():
+        outputs = model.generate(
+            **inputs,
+            max_new_tokens=512,
+            temperature=0.7,
+            do_sample=True,
+            top_p=0.9,
+            repetition_penalty=1.1,
+            pad_token_id=tokenizer.pad_token_id if tokenizer.pad_token_id else tokenizer.eos_token_id,
+            eos_token_id=tokenizer.eos_token_id
+        )
+    
+    # Decode only the new tokens (skip the input prompt tokens)
+    generated_tokens = outputs[0][input_length:]
+    answer = tokenizer.decode(generated_tokens, skip_special_tokens=True).strip()
+    
+    logging.info(f"Generated answer length: {len(answer)} chars")
+    logging.info(f"Answer preview: {answer[:200]}...")
+    
+    # If answer is empty, return an error message
+    if len(answer) < 5:
+        logging.error("Model generated empty or very short answer")
+        return "Error: Model did not generate a valid response."
+    
+    return answer
+
+
+def call_ollama(prompt: str, model: str = OLLAMA_MODEL) -> str:
     """Calls local Ollama via subprocess and returns response."""
     result = subprocess.run(
         ["ollama", "run", model],
@@ -96,6 +175,16 @@ def call_ollama(prompt: str, model: str = LLAMA_MODEL) -> str:
         raise RuntimeError(f"ollama returned empty output: {stderr}")
 
     return stdout
+
+
+def generate_answer(prompt: str) -> str:
+    """Generate answer using configured model (Ollama or local fine-tuned)."""
+    if USE_OLLAMA:
+        logging.info(f"Using Ollama model: {OLLAMA_MODEL}")
+        return call_ollama(prompt, OLLAMA_MODEL)
+    else:
+        logging.info(f"Using local fine-tuned model: {LOCAL_MODEL_PATH}")
+        return call_local_model(prompt)
 
 
 # Build RAG prompt
@@ -155,10 +244,10 @@ def answer(req: QueryRequest):
     # 2. Build prompt
     prompt = build_prompt(query, docs)
 
-    # 3. Generate answer with Ollama
+    # 3. Generate answer with configured model
     try:
-        llm_output = call_ollama(prompt)
-    except RuntimeError as e:
+        llm_output = generate_answer(prompt)
+    except Exception as e:
         logging.exception("LLM call failed for HTML endpoint")
         llm_output = f"Error generating answer: {e}"
 
@@ -230,8 +319,8 @@ def answer_json(req: QueryRequest):
 
     prompt = build_prompt(query, docs)
     try:
-        llm_output = call_ollama(prompt)
-    except RuntimeError as e:
+        llm_output = generate_answer(prompt)
+    except Exception as e:
         logging.exception("LLM call failed for JSON endpoint")
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -248,6 +337,7 @@ def answer_json(req: QueryRequest):
 
 @app.get("/")
 def root():
+        model_info = f"Ollama ({OLLAMA_MODEL})" if USE_OLLAMA else f"Local Fine-tuned ({LOCAL_MODEL_PATH})"
         html_content = f"""
         <!doctype html>
         <html lang="en">
@@ -262,8 +352,8 @@ def root():
         <body>
             <h1>WU RAG API</h1>
             <p><strong>Status:</strong> RAG API running</p>
-            <p><strong>Model:</strong> {escape(LLAMA_MODEL)}</p>
-            <p>POST to <code>/answer</code> with JSON <code>{"query": "..."}</code></p>
+            <p><strong>Model:</strong> {escape(model_info)}</p>
+            <p>POST to <code>/answer</code> with JSON <code>{{"query": "..."}}</code></p>
         </body>
         </html>
         """
