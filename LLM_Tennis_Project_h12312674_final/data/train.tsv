@@ -1,0 +1,2048 @@
+tourney_name	round	surface	winner_name	loser_name	score	winner_rank	loser_rank	w_ace	w_df	w_1stIn	w_1stWon	w_2ndWon	w_bpSaved	w_bpFaced	l_ace	l_df	l_1stIn	l_1stWon	l_2ndWon	l_bpSaved	l_bpFaced	input_text	target_text	input_text_old
+Australian Open	R16	Hard	Andrey Rublev	Alex De Minaur	6-4 6-7(5) 6-7(4) 6-3 6-0	5.0	10.0	6.0	6.0	107.0	72.0	40.0	13.0	16.0	6.0	6.0	85.0	54.0	38.0	5.0	13.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Andrey Rublev (rank 5.0)
+Loser: Alex De Minaur (rank 10.0)
+Score: 6-4 6-7(5) 6-7(4) 6-3 6-0
+
+Winner stats:
+- Aces: 6.0
+- Double faults: 6.0
+- 1st serve in: 107.0
+- 1st serve points won: 72.0
+- 2nd serve points won: 40.0
+- Break points saved: 13.0 out of 16.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 6.0
+- 1st serve in: 85.0
+- 1st serve points won: 54.0
+- 2nd serve points won: 38.0
+- Break points saved: 5.0 out of 13.0"	Rublev was in danger of crashing out of the year's first major after losing a dramatic third-set tie-break, but he rebounded by breaking the Australian's opening service games in the fourth and fifth sets to clinch his 300th match win 6-4, 6-7(5), 6-7(4), 6-3, 6-0 after four hours, 14 minutes.	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Andrey Rublev (Rank: 5.0)
+Loser: Alex De Minaur (Rank: 10.0)
+Score: 6-4 6-7(5) 6-7(4) 6-3 6-0
+
+Winner stats:
+- Aces: 6.0
+- Double faults: 6.0
+- 1st serve in: 107.0
+- 1st serve points won: 72.0
+- 2nd serve points won: 40.0
+- Break points saved: 13.0 out of 16.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 6.0
+- 1st serve in: 85.0
+- 1st serve points won: 54.0
+- 2nd serve points won: 38.0
+- Break points saved: 5.0 out of 13.0"
+Roland Garros	R16	Clay	Stefanos Tsitsipas	Matteo Arnaldi	3-6 7-6(4) 6-2 6-2	9.0	35.0	7.0	5.0	77.0	57.0	21.0	4.0	6.0	7.0	2.0	88.0	57.0	30.0	16.0	21.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Stefanos Tsitsipas (rank 9.0)
+Loser: Matteo Arnaldi (rank 35.0)
+Score: 3-6 7-6(4) 6-2 6-2
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 5.0
+- 1st serve in: 77.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 21.0
+- Break points saved: 4.0 out of 6.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 88.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 30.0
+- Break points saved: 16.0 out of 21.0"	"Stefanos Tsitsipas found himself in a hole on Sunday at Roland Garros against Italian Matteo Arnaldi. But he dug his way out to reach the quarter-finals in Paris for the fourth time.
+The Greek trailed Arnaldi 3-6, 3-5 and was being outplayed on Court Suzanne-Lenglen. However, he saved three set points on serve at 3-5 before he fended off another in the next game to break back for 5-5. The ninth seed then closed out the set and powered to a 3-6, 7-6(4), 6-2, 6-2 victory."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Stefanos Tsitsipas (Rank: 9.0)
+Loser: Matteo Arnaldi (Rank: 35.0)
+Score: 3-6 7-6(4) 6-2 6-2
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 5.0
+- 1st serve in: 77.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 21.0
+- Break points saved: 4.0 out of 6.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 88.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 30.0
+- Break points saved: 16.0 out of 21.0"
+Roland Garros	R16	Clay	Alex De Minaur	Daniil Medvedev	4-6 6-2 6-1 6-3	11.0	5.0	7.0	3.0	55.0	42.0	26.0	8.0	10.0	7.0	2.0	65.0	40.0	22.0	7.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Alex De Minaur (rank 11.0)
+Loser: Daniil Medvedev (rank 5.0)
+Score: 4-6 6-2 6-1 6-3
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 3.0
+- 1st serve in: 55.0
+- 1st serve points won: 42.0
+- 2nd serve points won: 26.0
+- Break points saved: 8.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 65.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 22.0
+- Break points saved: 7.0 out of 14.0"	"Alex de Minaur is a Roland Garros quarter-finalist for the first time after grinding down Daniil Medvedev on Monday in a battle between two of the fiercest competitors on the ATP Tour.
+The 11th-seeded De Minaur upset fifth seed Medvedev 4-6, 6-2, 6-1, 6-3 in a hard-fought encounter on Court Suzanne-Lenglen. The Australian was typically resolute in defence and clinical in dispatching any short balls offered up by his higher-ranked opponent en route to improving to 3-6 in the pair’s Lexus ATP Head2Head series."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Alex De Minaur (Rank: 11.0)
+Loser: Daniil Medvedev (Rank: 5.0)
+Score: 4-6 6-2 6-1 6-3
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 3.0
+- 1st serve in: 55.0
+- 1st serve points won: 42.0
+- 2nd serve points won: 26.0
+- Break points saved: 8.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 65.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 22.0
+- Break points saved: 7.0 out of 14.0"
+Wimbledon	QF	Grass	Carlos Alcaraz	Tommy Paul	5-7 6-4 6-2 6-2	3.0	13.0	7.0	2.0	73.0	48.0	29.0	6.0	10.0	2.0	2.0	82.0	47.0	27.0	19.0	27.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: QF
+Surface: Grass
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Tommy Paul (rank 13.0)
+Score: 5-7 6-4 6-2 6-2
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 73.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 29.0
+- Break points saved: 6.0 out of 10.0
+
+Loser stats:
+- Aces: 2.0
+- Double faults: 2.0
+- 1st serve in: 82.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 27.0
+- Break points saved: 19.0 out of 27.0"	"Carlos Alcaraz is digging deep in defence of his Wimbledon crown.
+The Spaniard rallied to a 5-7, 6-4, 6-2, 6-2 triumph against the in-form Tommy Paul on Tuesday to book a semi-final spot at the grass-court major. For the third consecutive match, Alcaraz’s resolve was given a stern test by his opponent, but the 21-year-old third seed kept his cool to seal a three-hour, 11-minute comeback victory on Centre Court."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: QF
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Tommy Paul (Rank: 13.0)
+Score: 5-7 6-4 6-2 6-2
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 73.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 29.0
+- Break points saved: 6.0 out of 10.0
+
+Loser stats:
+- Aces: 2.0
+- Double faults: 2.0
+- 1st serve in: 82.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 27.0
+- Break points saved: 19.0 out of 27.0"
+Australian Open	R16	Hard	Alexander Zverev	Cameron Norrie	7-5 3-6 6-3 4-6 7-6(3)	6.0	22.0	15.0	6.0	114.0	87.0	16.0	6.0	10.0	10.0	2.0	106.0	73.0	33.0	10.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Alexander Zverev (rank 6.0)
+Loser: Cameron Norrie (rank 22.0)
+Score: 7-5 3-6 6-3 4-6 7-6(3)
+
+Winner stats:
+- Aces: 15.0
+- Double faults: 6.0
+- 1st serve in: 114.0
+- 1st serve points won: 87.0
+- 2nd serve points won: 16.0
+- Break points saved: 6.0 out of 10.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 2.0
+- 1st serve in: 106.0
+- 1st serve points won: 73.0
+- 2nd serve points won: 33.0
+- Break points saved: 10.0 out of 14.0"	"Alexander Zverev’s rock-solid Aussie summer rumbled on Monday in Melbourne.
+The sixth-seeded German pulled through for a dramatic 7-5, 3-6, 6-3, 4-6, 7-6(10-3) triumph against Cameron Norrie to book his quarter-final spot at the Australian Open. In a roller-coaster match full of twists and turns, Zverev held his nerve in a deciding-set Match Tie-break to improve to 8-1 Down Under so far this season."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Alexander Zverev (Rank: 6.0)
+Loser: Cameron Norrie (Rank: 22.0)
+Score: 7-5 3-6 6-3 4-6 7-6(3)
+
+Winner stats:
+- Aces: 15.0
+- Double faults: 6.0
+- 1st serve in: 114.0
+- 1st serve points won: 87.0
+- 2nd serve points won: 16.0
+- Break points saved: 6.0 out of 10.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 2.0
+- 1st serve in: 106.0
+- 1st serve points won: 73.0
+- 2nd serve points won: 33.0
+- Break points saved: 10.0 out of 14.0"
+Us Open	R16	Hard	Taylor Fritz	Casper Ruud	3-6 6-4 6-3 6-2	12.0	8.0	24.0	7.0	63.0	53.0	22.0	5.0	6.0	4.0	8.0	70.0	56.0	18.0	6.0	10.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Taylor Fritz (rank 12.0)
+Loser: Casper Ruud (rank 8.0)
+Score: 3-6 6-4 6-3 6-2
+
+Winner stats:
+- Aces: 24.0
+- Double faults: 7.0
+- 1st serve in: 63.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 22.0
+- Break points saved: 5.0 out of 6.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 8.0
+- 1st serve in: 70.0
+- 1st serve points won: 56.0
+- 2nd serve points won: 18.0
+- Break points saved: 6.0 out of 10.0"	"Taylor Fritz gained revenge against Casper Ruud on Sunday at the US Open, where he overcame the Norwegian 3-6, 6-4, 6-3, 6-2 to reach the quarter-finals in New York for the second consecutive year.
+The American fell to Ruud in the fourth round at Roland Garros earlier this year but ensured history would not repeat itself under the roof on Louis Armstrong Stadium. In a statement display, Fritz fired 56 winners to Ruud’s 32 and used the energy of the home crowd to triumph after two hours and 44 minutes."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: R16
+
+Winner: Taylor Fritz (Rank: 12.0)
+Loser: Casper Ruud (Rank: 8.0)
+Score: 3-6 6-4 6-3 6-2
+
+Winner stats:
+- Aces: 24.0
+- Double faults: 7.0
+- 1st serve in: 63.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 22.0
+- Break points saved: 5.0 out of 6.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 8.0
+- 1st serve in: 70.0
+- 1st serve points won: 56.0
+- 2nd serve points won: 18.0
+- Break points saved: 6.0 out of 10.0"
+Roland Garros	F	Clay	Carlos Alcaraz	Alexander Zverev	6-3 2-6 5-7 6-1 6-2	3.0	4.0	3.0	6.0	96.0	62.0	31.0	17.0	23.0	8.0	6.0	97.0	61.0	12.0	7.0	16.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: F
+Surface: Clay
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Alexander Zverev (rank 4.0)
+Score: 6-3 2-6 5-7 6-1 6-2
+
+Winner stats:
+- Aces: 3.0
+- Double faults: 6.0
+- 1st serve in: 96.0
+- 1st serve points won: 62.0
+- 2nd serve points won: 31.0
+- Break points saved: 17.0 out of 23.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 6.0
+- 1st serve in: 97.0
+- 1st serve points won: 61.0
+- 2nd serve points won: 12.0
+- Break points saved: 7.0 out of 16.0"	"The third seed on Sunday outlasted Alexander Zverev 6-3, 2-6, 5-7, 6-1, 6-2 to lift the trophy at Roland Garros. With his four-hour, 19-minute win in Paris, the 21-year-old Alcaraz became the first champion at the clay-court major to win a semi-final and final each in five sets since Rod Laver in 1962.
+Just as he did against Jannik Sinner in the semi-finals, Alcaraz kept cool after falling two-sets-to-one behind to secure a gritty victory against Zverev. The Spaniard, who arrived at Roland Garros having not competed for three weeks due to a right arm injury, raised his level to win 12 of the final 15 games and secure a major crown for the third consecutive season."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: F
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Alexander Zverev (Rank: 4.0)
+Score: 6-3 2-6 5-7 6-1 6-2
+
+Winner stats:
+- Aces: 3.0
+- Double faults: 6.0
+- 1st serve in: 96.0
+- 1st serve points won: 62.0
+- 2nd serve points won: 31.0
+- Break points saved: 17.0 out of 23.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 6.0
+- 1st serve in: 97.0
+- 1st serve points won: 61.0
+- 2nd serve points won: 12.0
+- Break points saved: 7.0 out of 16.0"
+Us Open	QF	Hard	Frances Tiafoe	Grigor Dimitrov	6-3 6-7(5) 6-3 4-1 RET	20.0	9.0	3.0	5.0	53.0	39.0	36.0	3.0	4.0	8.0	11.0	71.0	53.0	22.0	8.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: QF
+Surface: Hard
+
+Winner: Frances Tiafoe (rank 20.0)
+Loser: Grigor Dimitrov (rank 9.0)
+Score: 6-3 6-7(5) 6-3 4-1 RET
+
+Winner stats:
+- Aces: 3.0
+- Double faults: 5.0
+- 1st serve in: 53.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 36.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 11.0
+- 1st serve in: 71.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 22.0
+- Break points saved: 8.0 out of 14.0"	"Frances Tiafoe advanced to his second major semi-final Tuesday at the US Open, where Grigor Dimitrov was forced to retire with the American leading 6-3, 6-7(5), 6-3, 4-1.
+During the latter stages of the eighth game in the third set, Dimitrov’s movement and baseline firepower quickly dropped off, seemingly due to a leg issue. The Bulgarian called the physio at the end of the third set and went off court to receive treatment.
+Dimitrov tried his best to continue on, but was clearly hindered. He retired three hours and four minutes into what was a thrilling quarter-final battle prior to the ninth seed’s injury."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: QF
+
+Winner: Frances Tiafoe (Rank: 20.0)
+Loser: Grigor Dimitrov (Rank: 9.0)
+Score: 6-3 6-7(5) 6-3 4-1 RET
+
+Winner stats:
+- Aces: 3.0
+- Double faults: 5.0
+- 1st serve in: 53.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 36.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 11.0
+- 1st serve in: 71.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 22.0
+- Break points saved: 8.0 out of 14.0"
+Roland Garros	R16	Clay	Carlos Alcaraz	Felix Auger Aliassime	6-3 6-3 6-1	3.0	21.0	1.0	2.0	53.0	40.0	14.0	4.0	5.0	0.0	5.0	48.0	29.0	14.0	10.0	16.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Felix Auger Aliassime (rank 21.0)
+Score: 6-3 6-3 6-1
+
+Winner stats:
+- Aces: 1.0
+- Double faults: 2.0
+- 1st serve in: 53.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 14.0
+- Break points saved: 4.0 out of 5.0
+
+Loser stats:
+- Aces: 0.0
+- Double faults: 5.0
+- 1st serve in: 48.0
+- 1st serve points won: 29.0
+- 2nd serve points won: 14.0
+- Break points saved: 10.0 out of 16.0"	"Carlos Alcaraz wasted little time in reaching the quarter-finals at Roland Garros for the third consecutive year on Sunday, when he dispatched Canadian Felix Auger-Aliassime to gain parity in the pair’s Lexus ATP Head2Head series.
+The Spaniard played front-foot tennis throughout the two-hour, 20-minute clash on Court Philippe-Chatrier to advance 6-3, 6-3, 6-1."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Felix Auger Aliassime (Rank: 21.0)
+Score: 6-3 6-3 6-1
+
+Winner stats:
+- Aces: 1.0
+- Double faults: 2.0
+- 1st serve in: 53.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 14.0
+- Break points saved: 4.0 out of 5.0
+
+Loser stats:
+- Aces: 0.0
+- Double faults: 5.0
+- 1st serve in: 48.0
+- 1st serve points won: 29.0
+- 2nd serve points won: 14.0
+- Break points saved: 10.0 out of 16.0"
+Australian Open	R16	Hard	Hubert Hurkacz	Arthur Cazaux	7-6(6) 7-6(3) 6-4	9.0	122.0	11.0	1.0	54.0	49.0	25.0	0.0	1.0	18.0	2.0	68.0	53.0	24.0	6.0	8.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Hubert Hurkacz (rank 9.0)
+Loser: Arthur Cazaux (rank 122.0)
+Score: 7-6(6) 7-6(3) 6-4
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 1.0
+- 1st serve in: 54.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 25.0
+- Break points saved: 0.0 out of 1.0
+
+Loser stats:
+- Aces: 18.0
+- Double faults: 2.0
+- 1st serve in: 68.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 24.0
+- Break points saved: 6.0 out of 8.0"	"Big-serving Hubert Hurkacz ended the dream run of French wildcard Arthur Cazaux 7-6 (8/6), 7-6 (7/3), 6-4 on Monday to advance to his first Australian Open quarter-final.
+
+Cazaux, 21, raced into a 3-0 lead in the first set but was pegged back by ninth-seed Hurkacz, who came out on top in the tie-break on John Cain Arena.
+There were no breaks in a serve-dominated second set but the 26-year-old Pole again won the tie-break to take a firm grip on the match. 
+He broke his 122nd-ranked opponent in the first game of the third set and never looked back."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Hubert Hurkacz (Rank: 9.0)
+Loser: Arthur Cazaux (Rank: 122.0)
+Score: 7-6(6) 7-6(3) 6-4
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 1.0
+- 1st serve in: 54.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 25.0
+- Break points saved: 0.0 out of 1.0
+
+Loser stats:
+- Aces: 18.0
+- Double faults: 2.0
+- 1st serve in: 68.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 24.0
+- Break points saved: 6.0 out of 8.0"
+Wimbledon	R16	Grass	Daniil Medvedev	Grigor Dimitrov	5-3 RET	5.0	10.0	6.0	1.0	14.0	9.0	6.0	1.0	2.0	1.0	0.0	14.0	8.0	4.0	1.0	3.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Daniil Medvedev (rank 5.0)
+Loser: Grigor Dimitrov (rank 10.0)
+Score: 5-3 RET
+
+Winner stats:
+- Aces: 6.0
+- Double faults: 1.0
+- 1st serve in: 14.0
+- 1st serve points won: 9.0
+- 2nd serve points won: 6.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 0.0
+- 1st serve in: 14.0
+- 1st serve points won: 8.0
+- 2nd serve points won: 4.0
+- Break points saved: 1.0 out of 3.0"	"Daniil Medvedev returned to the quarter-finals at Wimbledon on Sunday when Grigor Dimitrov was forced to retire while trailing 3-5 in the first set.
+The Bulgarian slipped at 2-3 in the first set before he received a medical timeout for a knee issue. He continued on for three more games before eventually stopping after 35 minutes on No. 1 Court."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Daniil Medvedev (Rank: 5.0)
+Loser: Grigor Dimitrov (Rank: 10.0)
+Score: 5-3 RET
+
+Winner stats:
+- Aces: 6.0
+- Double faults: 1.0
+- 1st serve in: 14.0
+- 1st serve points won: 9.0
+- 2nd serve points won: 6.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 0.0
+- 1st serve in: 14.0
+- 1st serve points won: 8.0
+- 2nd serve points won: 4.0
+- Break points saved: 1.0 out of 3.0"
+Australian Open	SF	Hard	Daniil Medvedev	Alexander Zverev	5-7 3-6 7-6(4) 7-6(5) 6-3	3.0	6.0	14.0	6.0	94.0	72.0	35.0	5.0	10.0	14.0	1.0	132.0	94.0	22.0	10.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: SF
+Surface: Hard
+
+Winner: Daniil Medvedev (rank 3.0)
+Loser: Alexander Zverev (rank 6.0)
+Score: 5-7 3-6 7-6(4) 7-6(5) 6-3
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 6.0
+- 1st serve in: 94.0
+- 1st serve points won: 72.0
+- 2nd serve points won: 35.0
+- Break points saved: 5.0 out of 10.0
+
+Loser stats:
+- Aces: 14.0
+- Double faults: 1.0
+- 1st serve in: 132.0
+- 1st serve points won: 94.0
+- 2nd serve points won: 22.0
+- Break points saved: 10.0 out of 14.0"	"Daniil Medvedev rallied from two-sets-to-love down for the fourth time in his career on Friday when he moved past long-term rival Alexander Zverev 5-7, 3-6, 7-6(4), 7-6(5), 6-3 to reach his third Australian Open final.
+Meeting for the 19th time but first at a major, Medvedev was two points away from defeat in the fourth-set tie-break but stayed composed, eventually advancing to his sixth Slam title match after a four-hour and 18-minute epic inside a lively Rod Laver Arena."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: SF
+
+Winner: Daniil Medvedev (Rank: 3.0)
+Loser: Alexander Zverev (Rank: 6.0)
+Score: 5-7 3-6 7-6(4) 7-6(5) 6-3
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 6.0
+- 1st serve in: 94.0
+- 1st serve points won: 72.0
+- 2nd serve points won: 35.0
+- Break points saved: 5.0 out of 10.0
+
+Loser stats:
+- Aces: 14.0
+- Double faults: 1.0
+- 1st serve in: 132.0
+- 1st serve points won: 94.0
+- 2nd serve points won: 22.0
+- Break points saved: 10.0 out of 14.0"
+Wimbledon	QF	Grass	Novak Djokovic	Alex De Minaur	W/O	2.0	9.0															"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: QF
+Surface: Grass
+
+Winner: Novak Djokovic (rank 2.0)
+Loser: Alex De Minaur (rank 9.0)
+Score: W/O
+
+Winner stats:
+- Aces: nan
+- Double faults: nan
+- 1st serve in: nan
+- 1st serve points won: nan
+- 2nd serve points won: nan
+- Break points saved: nan out of nan
+
+Loser stats:
+- Aces: nan
+- Double faults: nan
+- 1st serve in: nan
+- 1st serve points won: nan
+- 2nd serve points won: nan
+- Break points saved: nan out of nan"	"Alex de Minaur has withdrawn from Wimbledon prior to his quarter-final clash against Novak Djokovic due to injury.
+The ninth-seeded Australian announced he was unable to compete against the seven-time champion Djokovic at a press conference. He had spoken of jarring his hip in the closing stages of his fourth-round victory against Arthur Fils, and he was unable to recover in time to take on the second-seeded Djokovic on Centre Court on Wednesday."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: QF
+
+Winner: Novak Djokovic (Rank: 2.0)
+Loser: Alex De Minaur (Rank: 9.0)
+Score: W/O
+
+Winner stats:
+- Aces: nan
+- Double faults: nan
+- 1st serve in: nan
+- 1st serve points won: nan
+- 2nd serve points won: nan
+- Break points saved: nan out of nan
+
+Loser stats:
+- Aces: nan
+- Double faults: nan
+- 1st serve in: nan
+- 1st serve points won: nan
+- 2nd serve points won: nan
+- Break points saved: nan out of nan"
+Australian Open	SF	Hard	Jannik Sinner	Novak Djokovic	6-1 6-2 6-7(6) 6-3	4.0	1.0	9.0	1.0	64.0	53.0	29.0	0.0	0.0	7.0	4.0	79.0	53.0	17.0	6.0	11.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: SF
+Surface: Hard
+
+Winner: Jannik Sinner (rank 4.0)
+Loser: Novak Djokovic (rank 1.0)
+Score: 6-1 6-2 6-7(6) 6-3
+
+Winner stats:
+- Aces: 9.0
+- Double faults: 1.0
+- 1st serve in: 64.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 29.0
+- Break points saved: 0.0 out of 0.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 4.0
+- 1st serve in: 79.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 17.0
+- Break points saved: 6.0 out of 11.0"	"Jannik Sinner turned the most anticipated matchup of the 2024 Australian Open into his own personal showcase in a dominant win against 10-time champion Novak Djokovic. While the Italian's upset against the World No. 1 may not be a shock, the 6-1, 6-2, 6-7(6), 6-3 scoreline is one of the more stunning in recent memory.
+Djokovic fought off a match point in the third-set tie-break but was ultimately unable to rise to his opponent's challenge on a largely off-colour afternoon. The Serbian made 54 unforced errors and did not create a break point as Sinner held firm with a patient game plan that seemed to dare the defending champion to beat him in the rallies"	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: SF
+
+Winner: Jannik Sinner (Rank: 4.0)
+Loser: Novak Djokovic (Rank: 1.0)
+Score: 6-1 6-2 6-7(6) 6-3
+
+Winner stats:
+- Aces: 9.0
+- Double faults: 1.0
+- 1st serve in: 64.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 29.0
+- Break points saved: 0.0 out of 0.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 4.0
+- 1st serve in: 79.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 17.0
+- Break points saved: 6.0 out of 11.0"
+Us Open	R16	Hard	Jannik Sinner	Tommy Paul	7-6(3) 7-6(5) 6-1	1.0	14.0	10.0	1.0	48.0	39.0	28.0	2.0	4.0	4.0	3.0	67.0	43.0	19.0	10.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Jannik Sinner (rank 1.0)
+Loser: Tommy Paul (rank 14.0)
+Score: 7-6(3) 7-6(5) 6-1
+
+Winner stats:
+- Aces: 10.0
+- Double faults: 1.0
+- 1st serve in: 48.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 28.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 3.0
+- 1st serve in: 67.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 19.0
+- Break points saved: 10.0 out of 14.0"	The No. 1 player in the PIF ATP Rankings battled from two breaks down in the first set and had to work hard throughout, but his baseline power and jaw-dropping shotmaking proved enough to claw to a 7-6(3), 7-6(5), 6-1 victory.	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: R16
+
+Winner: Jannik Sinner (Rank: 1.0)
+Loser: Tommy Paul (Rank: 14.0)
+Score: 7-6(3) 7-6(5) 6-1
+
+Winner stats:
+- Aces: 10.0
+- Double faults: 1.0
+- 1st serve in: 48.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 28.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 3.0
+- 1st serve in: 67.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 19.0
+- Break points saved: 10.0 out of 14.0"
+Wimbledon	R16	Grass	Tommy Paul	Roberto Bautista Agut	6-2 7-6(3) 6-2	13.0	112.0	11.0	2.0	54.0	43.0	21.0	3.0	4.0	0.0	0.0	67.0	36.0	13.0	2.0	7.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Tommy Paul (rank 13.0)
+Loser: Roberto Bautista Agut (rank 112.0)
+Score: 6-2 7-6(3) 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 2.0
+- 1st serve in: 54.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 21.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 0.0
+- Double faults: 0.0
+- 1st serve in: 67.0
+- 1st serve points won: 36.0
+- 2nd serve points won: 13.0
+- Break points saved: 2.0 out of 7.0"	"U.S. 12th seed Tommy Paul raced against the fading light on Court Two to dispatch Spanish veteran Roberto Bautista Agut 6-2 7-6(3) 6-2 on Sunday and set up a quarter-final clash with defending champion Carlos Alcaraz.
+The 27-year-old took just over two hours to beat Bautista Agut who was bidding to reach his second Wimbledon quarter-final in his 10th appearance here"	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Tommy Paul (Rank: 13.0)
+Loser: Roberto Bautista Agut (Rank: 112.0)
+Score: 6-2 7-6(3) 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 2.0
+- 1st serve in: 54.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 21.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 0.0
+- Double faults: 0.0
+- 1st serve in: 67.0
+- 1st serve points won: 36.0
+- 2nd serve points won: 13.0
+- Break points saved: 2.0 out of 7.0"
+Australian Open	R16	Hard	Taylor Fritz	Stefanos Tsitsipas	7-6(3) 5-7 6-3 6-3	12.0	7.0	13.0	2.0	79.0	68.0	18.0	2.0	4.0	12.0	7.0	86.0	65.0	22.0	7.0	11.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Taylor Fritz (rank 12.0)
+Loser: Stefanos Tsitsipas (rank 7.0)
+Score: 7-6(3) 5-7 6-3 6-3
+
+Winner stats:
+- Aces: 13.0
+- Double faults: 2.0
+- 1st serve in: 79.0
+- 1st serve points won: 68.0
+- 2nd serve points won: 18.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 12.0
+- Double faults: 7.0
+- 1st serve in: 86.0
+- 1st serve points won: 65.0
+- 2nd serve points won: 22.0
+- Break points saved: 7.0 out of 11.0"	"Taylor Fritz reached the Australian Open quarter-finals for the first time Sunday, overcoming World No. 7 Stefanos Tsitsipas 7-6(3), 5-7, 6-3, 6-3 to earn his maiden Top 10 win at a major.
+The American had lost all of his 11 previous meetings against Top 10 players at Slams, including a fourth-round defeat against Tsitsipas in Melbourne in 2022. However, the 26-year-old was close to his best inside John Cain Arena to end that run, firing 13 aces and winning 86 per cent (68/79) of his first-serve points to advance after three hours and one minute."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Taylor Fritz (Rank: 12.0)
+Loser: Stefanos Tsitsipas (Rank: 7.0)
+Score: 7-6(3) 5-7 6-3 6-3
+
+Winner stats:
+- Aces: 13.0
+- Double faults: 2.0
+- 1st serve in: 79.0
+- 1st serve points won: 68.0
+- 2nd serve points won: 18.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 12.0
+- Double faults: 7.0
+- 1st serve in: 86.0
+- 1st serve points won: 65.0
+- 2nd serve points won: 22.0
+- Break points saved: 7.0 out of 11.0"
+Wimbledon	R16	Grass	Taylor Fritz	Alexander Zverev	4-6 6-7(4) 6-4 7-6(3) 6-3	12.0	4.0	15.0	0.0	96.0	80.0	34.0	1.0	2.0	19.0	3.0	115.0	92.0	18.0	2.0	4.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Taylor Fritz (rank 12.0)
+Loser: Alexander Zverev (rank 4.0)
+Score: 4-6 6-7(4) 6-4 7-6(3) 6-3
+
+Winner stats:
+- Aces: 15.0
+- Double faults: 0.0
+- 1st serve in: 96.0
+- 1st serve points won: 80.0
+- 2nd serve points won: 34.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 19.0
+- Double faults: 3.0
+- 1st serve in: 115.0
+- 1st serve points won: 92.0
+- 2nd serve points won: 18.0
+- Break points saved: 2.0 out of 4.0"	"Taylor Fritz on Monday earned one of the most stunning victories of Wimbledon.
+The 13th seed rallied from two sets down to shock fourth seed Alexander Zverev 4-6, 6-7(4), 6-4, 7-6(3), 6-3 for a spot in the quarter-finals of The Championships. The American will face 25th seed Lorenzo Musetti for a place in the semi-finals."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Taylor Fritz (Rank: 12.0)
+Loser: Alexander Zverev (Rank: 4.0)
+Score: 4-6 6-7(4) 6-4 7-6(3) 6-3
+
+Winner stats:
+- Aces: 15.0
+- Double faults: 0.0
+- 1st serve in: 96.0
+- 1st serve points won: 80.0
+- 2nd serve points won: 34.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 19.0
+- Double faults: 3.0
+- 1st serve in: 115.0
+- 1st serve points won: 92.0
+- 2nd serve points won: 18.0
+- Break points saved: 2.0 out of 4.0"
+Roland Garros	R16	Clay	Jannik Sinner	Corentin Moutet	2-6 6-3 6-2 6-1	2.0	79.0	5.0	5.0	62.0	45.0	14.0	2.0	6.0	1.0	2.0	71.0	39.0	8.0	6.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Jannik Sinner (rank 2.0)
+Loser: Corentin Moutet (rank 79.0)
+Score: 2-6 6-3 6-2 6-1
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 5.0
+- 1st serve in: 62.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 14.0
+- Break points saved: 2.0 out of 6.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 2.0
+- 1st serve in: 71.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 8.0
+- Break points saved: 6.0 out of 14.0"	"Jannik Sinner withstood an early onslaught from home favourite Corentin Moutet to seal passage to the quarter-finals with a 2-6, 6-3, 6-2, 6-1 victory Sunday at Roland Garros.
+For one remarkable opening set, the No. 79-ranked Moutet had the Court Philippe-Chatrier crowd in the palm of his hand as he dazzled the fans and Sinner with his unique variety-filled lefty game. Moutet, who let slip two chances to complete a rare bagel against the No. 2 in the PIF ATP Rankings from 5-0, 40/15, led by a set and a break at 6-2, 1-0, at which point Sinner’s comeback began.
+The Australian Open champion ultimately proved too consistent from the baseline for Moutet, who battled admirably throughout but struggled to counter his opponent’s power across the second, third and fourth sets. Sinner did not seem fazed by the electric atmosphere whipped up by the home fans and he closed out victory in two hours and 41 minutes to set a quarter-final clash with Grigor Dimitrov."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Jannik Sinner (Rank: 2.0)
+Loser: Corentin Moutet (Rank: 79.0)
+Score: 2-6 6-3 6-2 6-1
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 5.0
+- 1st serve in: 62.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 14.0
+- Break points saved: 2.0 out of 6.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 2.0
+- 1st serve in: 71.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 8.0
+- Break points saved: 6.0 out of 14.0"
+Roland Garros	SF	Clay	Alexander Zverev	Casper Ruud	2-6 6-2 6-4 6-2	4.0	7.0	19.0	4.0	56.0	48.0	14.0	1.0	3.0	4.0	0.0	71.0	49.0	14.0	7.0	12.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: SF
+Surface: Clay
+
+Winner: Alexander Zverev (rank 4.0)
+Loser: Casper Ruud (rank 7.0)
+Score: 2-6 6-2 6-4 6-2
+
+Winner stats:
+- Aces: 19.0
+- Double faults: 4.0
+- 1st serve in: 56.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 14.0
+- Break points saved: 1.0 out of 3.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 0.0
+- 1st serve in: 71.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 14.0
+- Break points saved: 7.0 out of 12.0"	"Alexander Zverev reached his maiden Roland Garros final on Friday in his fourth semi-final attempt. The German moved past two-time finalist Casper Ruud 2-6, 6-2, 6-4, 6-2.
+Zverev lost in the last four at the clay-court major in 2021, 2022 and 2023, falling to Ruud in straight sets at this stage last year. However, the 27-year-old ensured history did not repeat itself under the lights on Court Philippe-Chatrier, where he recovered from a slow start to dispatch the Norwegian."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: SF
+
+Winner: Alexander Zverev (Rank: 4.0)
+Loser: Casper Ruud (Rank: 7.0)
+Score: 2-6 6-2 6-4 6-2
+
+Winner stats:
+- Aces: 19.0
+- Double faults: 4.0
+- 1st serve in: 56.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 14.0
+- Break points saved: 1.0 out of 3.0
+
+Loser stats:
+- Aces: 4.0
+- Double faults: 0.0
+- 1st serve in: 71.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 14.0
+- Break points saved: 7.0 out of 12.0"
+Us Open	SF	Hard	Jannik Sinner	Jack Draper	7-5 7-6(3) 6-2	1.0	25.0	11.0	2.0	62.0	48.0	25.0	3.0	4.0	8.0	10.0	64.0	43.0	32.0	7.0	11.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: SF
+Surface: Hard
+
+Winner: Jannik Sinner (rank 1.0)
+Loser: Jack Draper (rank 25.0)
+Score: 7-5 7-6(3) 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 2.0
+- 1st serve in: 62.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 25.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 10.0
+- 1st serve in: 64.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 32.0
+- Break points saved: 7.0 out of 11.0"	"Jannik Sinner reached the US Open final for the first time on Friday when he ended Jack Draper’s run in a hard-fought display on Arthur Ashe Stadium. The Italian dug deep in a physical battle to earn a a 7-5, 7-6(3), 6-2 triumph.
+In a gruelling clash, Sinner played with relentless intensity to grind down Draper, who struggled physically from the closing stages of the second set. The top seed fired 42 winners and survived a scare of his own in the second set when he tweaked his left wrist after using it to cushion his fall when he stumbled behind the baseline."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: SF
+
+Winner: Jannik Sinner (Rank: 1.0)
+Loser: Jack Draper (Rank: 25.0)
+Score: 7-5 7-6(3) 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 2.0
+- 1st serve in: 62.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 25.0
+- Break points saved: 3.0 out of 4.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 10.0
+- 1st serve in: 64.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 32.0
+- Break points saved: 7.0 out of 11.0"
+Australian Open	QF	Hard	Novak Djokovic	Taylor Fritz	7-6(3) 4-6 6-2 6-3	1.0	12.0	20.0	3.0	72.0	59.0	25.0	4.0	6.0	16.0	2.0	90.0	59.0	31.0	17.0	21.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: QF
+Surface: Hard
+
+Winner: Novak Djokovic (rank 1.0)
+Loser: Taylor Fritz (rank 12.0)
+Score: 7-6(3) 4-6 6-2 6-3
+
+Winner stats:
+- Aces: 20.0
+- Double faults: 3.0
+- 1st serve in: 72.0
+- 1st serve points won: 59.0
+- 2nd serve points won: 25.0
+- Break points saved: 4.0 out of 6.0
+
+Loser stats:
+- Aces: 16.0
+- Double faults: 2.0
+- 1st serve in: 90.0
+- 1st serve points won: 59.0
+- 2nd serve points won: 31.0
+- Break points saved: 17.0 out of 21.0"	"For the third time this Australian Open campaign, Novak Djokovic found himself pegged back to one-set-all on Tuesday. For the third time, the World No. 1 found a mid-match boost to charge to a four-set triumph inside Rod Laver Arena.
+Yet sweltering conditions and a Top 20 opponent in Taylor Fritz made Djokovic’s 7-6(3), 4-6, 6-2, 6-3 quarter-final win arguably his most impressive yet this fortnight at Melbourne Park. Although he ultimately accelerated to victory after a lung-busting opening two sets, Djokovic was left in no doubt as to the physical test he had passed against the No. 12 in the Pepperstone ATP Rankings."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: QF
+
+Winner: Novak Djokovic (Rank: 1.0)
+Loser: Taylor Fritz (Rank: 12.0)
+Score: 7-6(3) 4-6 6-2 6-3
+
+Winner stats:
+- Aces: 20.0
+- Double faults: 3.0
+- 1st serve in: 72.0
+- 1st serve points won: 59.0
+- 2nd serve points won: 25.0
+- Break points saved: 4.0 out of 6.0
+
+Loser stats:
+- Aces: 16.0
+- Double faults: 2.0
+- 1st serve in: 90.0
+- 1st serve points won: 59.0
+- 2nd serve points won: 31.0
+- Break points saved: 17.0 out of 21.0"
+Roland Garros	R16	Clay	Alexander Zverev	Holger Rune	4-6 6-1 5-7 7-6(2) 6-2	4.0	13.0	16.0	3.0	96.0	74.0	17.0	4.0	10.0	10.0	3.0	96.0	63.0	33.0	15.0	23.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Alexander Zverev (rank 4.0)
+Loser: Holger Rune (rank 13.0)
+Score: 4-6 6-1 5-7 7-6(2) 6-2
+
+Winner stats:
+- Aces: 16.0
+- Double faults: 3.0
+- 1st serve in: 96.0
+- 1st serve points won: 74.0
+- 2nd serve points won: 17.0
+- Break points saved: 4.0 out of 10.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 3.0
+- 1st serve in: 96.0
+- 1st serve points won: 63.0
+- 2nd serve points won: 33.0
+- Break points saved: 15.0 out of 23.0"	"For the second straight match at Roland Garros, Alexander Zverev battled into a fifth set to survive and advance. On Monday night turned Tuesday morning on Court Philippe-Chatrier, the German came from behind for a 4-6, 6-1, 5-7, 7-6(2), 6-2 victory against Holger Rune, keeping alive his bid to reach the semi-finals for the fourth consecutive year at the clay-court major.
+By denying Rune his third quarter-final in three Paris appearances, Zverev became the sixth man to reach six Roland Garros quarter-finals this century."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Alexander Zverev (Rank: 4.0)
+Loser: Holger Rune (Rank: 13.0)
+Score: 4-6 6-1 5-7 7-6(2) 6-2
+
+Winner stats:
+- Aces: 16.0
+- Double faults: 3.0
+- 1st serve in: 96.0
+- 1st serve points won: 74.0
+- 2nd serve points won: 17.0
+- Break points saved: 4.0 out of 10.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 3.0
+- 1st serve in: 96.0
+- 1st serve points won: 63.0
+- 2nd serve points won: 33.0
+- Break points saved: 15.0 out of 23.0"
+Australian Open	QF	Hard	Alexander Zverev	Carlos Alcaraz	6-1 6-3 6-7(2) 6-4	6.0	2.0	7.0	1.0	94.0	69.0	8.0	3.0	5.0	6.0	2.0	79.0	53.0	16.0	3.0	10.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: QF
+Surface: Hard
+
+Winner: Alexander Zverev (rank 6.0)
+Loser: Carlos Alcaraz (rank 2.0)
+Score: 6-1 6-3 6-7(2) 6-4
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 1.0
+- 1st serve in: 94.0
+- 1st serve points won: 69.0
+- 2nd serve points won: 8.0
+- Break points saved: 3.0 out of 5.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 2.0
+- 1st serve in: 79.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 16.0
+- Break points saved: 3.0 out of 10.0"	"Alexander Zverev notched a statement win Wednesday at the Australian Open. The sixth-seeded German claimed his first Grand Slam victory against a Top 5 opponent by downing World No. 2 Carlos Alcaraz 6-1, 6-3, 6-7(2), 6-4 to reach the semi-finals at Melbourne Park for the second time.
+Zverev successfully landed 85 per cent of his first serves and went on to win 73 per cent (69/94) of points behind his first delivery, according to Infosys Stats. His serve was the foundation for his dominance in the opening two and a half sets, when the German backed them up with some of his cleanest groundstrokes of the fortnight as he consistently absorbed Alcaraz’s power to great effect to move to the verge of victory at 6-1, 6-2, 5-2.
+Alcaraz kick-started a comeback, however, when he broke Zverev for the first time in the match as the German served for victory at 5-3 in the third set. The Spaniard then lit up Rod Laver Arena with some stunning ball-striking en route to winning the tie-break, but Zverev held firm in the fourth for a three-hour, six-minute win."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: QF
+
+Winner: Alexander Zverev (Rank: 6.0)
+Loser: Carlos Alcaraz (Rank: 2.0)
+Score: 6-1 6-3 6-7(2) 6-4
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 1.0
+- 1st serve in: 94.0
+- 1st serve points won: 69.0
+- 2nd serve points won: 8.0
+- Break points saved: 3.0 out of 5.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 2.0
+- 1st serve in: 79.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 16.0
+- Break points saved: 3.0 out of 10.0"
+Roland Garros	SF	Clay	Carlos Alcaraz	Jannik Sinner	2-6 6-3 3-6 6-4 6-3	3.0	2.0	8.0	7.0	103.0	68.0	25.0	4.0	10.0	7.0	8.0	76.0	56.0	27.0	8.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: SF
+Surface: Clay
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Jannik Sinner (rank 2.0)
+Score: 2-6 6-3 3-6 6-4 6-3
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 7.0
+- 1st serve in: 103.0
+- 1st serve points won: 68.0
+- 2nd serve points won: 25.0
+- Break points saved: 4.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 8.0
+- 1st serve in: 76.0
+- 1st serve points won: 56.0
+- 2nd serve points won: 27.0
+- Break points saved: 8.0 out of 14.0"	"Carlos Alcaraz advanced to his first Roland Garros final on Friday when he defeated Italian Jannik Sinner 2-6, 6-3, 3-6, 6-4, 6-3 in a Paris semi-final thriller.
+In one of the most anticipated matches of the year, both players struggled to find their best level in the opening two sets. With the match all square at one set all, Alcaraz looked to gain control when Sinner suffered with hand cramp at 2-2 in the third set. The Italian regularly shook out his hand between points and although his service speed dropped in the game, he saved four break points to survive on serve before he received treatment at 3-2.
+Sinner came out firing on the resumption to break Alcaraz immediately and held firm on serve to move ahead. Alcaraz refused to surrender in the fourth, though, with both players striking the ball with clean and effortless timing. With little to separate them, the World No. 3 Alcaraz found more quality and intensity in his play at the end of the fourth set to win it and force a decider.
+The 21-year-old then produced moments of magic in an absorbing fifth set, breaking Sinner’s serve early with a fierce forehand winner. Alcaraz put his foot down from that moment and refused to let Sinner back in, sealing a mammoth victory on his third match point after four hours and 10 minutes. Alcaraz, who struck 65 winners to Sinner's 39, raised his arms in the air and embraced the roar from the crowd after sealing his win."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: SF
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Jannik Sinner (Rank: 2.0)
+Score: 2-6 6-3 3-6 6-4 6-3
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 7.0
+- 1st serve in: 103.0
+- 1st serve points won: 68.0
+- 2nd serve points won: 25.0
+- Break points saved: 4.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 8.0
+- 1st serve in: 76.0
+- 1st serve points won: 56.0
+- 2nd serve points won: 27.0
+- Break points saved: 8.0 out of 14.0"
+Australian Open	R16	Hard	Novak Djokovic	Adrian Mannarino	6-0 6-0 6-3	1.0	19.0	17.0	5.0	48.0	39.0	13.0	3.0	3.0	1.0	0.0	34.0	17.0	8.0	4.0	11.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Novak Djokovic (rank 1.0)
+Loser: Adrian Mannarino (rank 19.0)
+Score: 6-0 6-0 6-3
+
+Winner stats:
+- Aces: 17.0
+- Double faults: 5.0
+- 1st serve in: 48.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 13.0
+- Break points saved: 3.0 out of 3.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 0.0
+- 1st serve in: 34.0
+- 1st serve points won: 17.0
+- 2nd serve points won: 8.0
+- Break points saved: 4.0 out of 11.0"	"Novak Djokovic dominated Adrian Mannarino 6-0, 6-0, 6-3 on Sunday to cruise into the Australian Open quarter-finals.
+Mannarino is one of the trickiest players on the ATP Tour with his lefty, flat-hitting game. But with three consecutive five-setters in the Frenchman’s legs, World No. 1 Djokovic won the first 13 games of the match en route to his 32nd straight Australian Open victory."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Novak Djokovic (Rank: 1.0)
+Loser: Adrian Mannarino (Rank: 19.0)
+Score: 6-0 6-0 6-3
+
+Winner stats:
+- Aces: 17.0
+- Double faults: 5.0
+- 1st serve in: 48.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 13.0
+- Break points saved: 3.0 out of 3.0
+
+Loser stats:
+- Aces: 1.0
+- Double faults: 0.0
+- 1st serve in: 34.0
+- 1st serve points won: 17.0
+- 2nd serve points won: 8.0
+- Break points saved: 4.0 out of 11.0"
+Us Open	R16	Hard	Jack Draper	Tomas Machac	6-3 6-1 6-2	25.0	39.0	11.0	6.0	37.0	29.0	26.0	6.0	6.0	5.0	7.0	43.0	27.0	12.0	3.0	9.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Jack Draper (rank 25.0)
+Loser: Tomas Machac (rank 39.0)
+Score: 6-3 6-1 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 6.0
+- 1st serve in: 37.0
+- 1st serve points won: 29.0
+- 2nd serve points won: 26.0
+- Break points saved: 6.0 out of 6.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 7.0
+- 1st serve in: 43.0
+- 1st serve points won: 27.0
+- 2nd serve points won: 12.0
+- Break points saved: 3.0 out of 9.0"	"Jack Draper reached his first major quarter-final on Monday at the US Open, where he dispatched Czech Tomas Machac 6-3, 6-1, 6-2 in New York.
+The British lefty was in total control from the early stages on Louis Armstrong Stadium, where he played with high intensity and struck 35 winners to become the first British man to advance to the last eight at the hard-court major since former champion Andy Murray in 2016."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: R16
+
+Winner: Jack Draper (Rank: 25.0)
+Loser: Tomas Machac (Rank: 39.0)
+Score: 6-3 6-1 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 6.0
+- 1st serve in: 37.0
+- 1st serve points won: 29.0
+- 2nd serve points won: 26.0
+- Break points saved: 6.0 out of 6.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 7.0
+- 1st serve in: 43.0
+- 1st serve points won: 27.0
+- 2nd serve points won: 12.0
+- Break points saved: 3.0 out of 9.0"
+Roland Garros	R16	Clay	Casper Ruud	Taylor Fritz	7-6(6) 3-6 6-4 6-2	7.0	12.0	11.0	7.0	75.0	52.0	32.0	8.0	12.0	19.0	4.0	91.0	65.0	27.0	21.0	27.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: R16
+Surface: Clay
+
+Winner: Casper Ruud (rank 7.0)
+Loser: Taylor Fritz (rank 12.0)
+Score: 7-6(6) 3-6 6-4 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 7.0
+- 1st serve in: 75.0
+- 1st serve points won: 52.0
+- 2nd serve points won: 32.0
+- Break points saved: 8.0 out of 12.0
+
+Loser stats:
+- Aces: 19.0
+- Double faults: 4.0
+- 1st serve in: 91.0
+- 1st serve points won: 65.0
+- 2nd serve points won: 27.0
+- Break points saved: 21.0 out of 27.0"	"Casper Ruud advanced to his fourth Grand Slam quarter-final with a battling four-set win against Taylor Fritz on Monday at Roland Garros. Each of the past three times the Norwegian advanced to that stage at a major, he went on to reach the final — including each of the past two years in Paris.
+In a 7-6(6), 3-6, 6-4, 6-2 victory, Ruud rallied from 1/5 and saved a set point in the first-set tie-break before battling back from an early break down in the pivotal third set. Though the seventh seed failed to serve out set three, he converted on his fourth break point in the ensuing game to take what proved to be a decisive lead."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: R16
+
+Winner: Casper Ruud (Rank: 7.0)
+Loser: Taylor Fritz (Rank: 12.0)
+Score: 7-6(6) 3-6 6-4 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 7.0
+- 1st serve in: 75.0
+- 1st serve points won: 52.0
+- 2nd serve points won: 32.0
+- Break points saved: 8.0 out of 12.0
+
+Loser stats:
+- Aces: 19.0
+- Double faults: 4.0
+- 1st serve in: 91.0
+- 1st serve points won: 65.0
+- 2nd serve points won: 27.0
+- Break points saved: 21.0 out of 27.0"
+Us Open	QF	Hard	Taylor Fritz	Alexander Zverev	7-6(2) 3-6 6-4 7-6(3)	12.0	4.0	12.0	5.0	81.0	66.0	25.0	2.0	4.0	14.0	4.0	103.0	77.0	20.0	11.0	13.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: QF
+Surface: Hard
+
+Winner: Taylor Fritz (rank 12.0)
+Loser: Alexander Zverev (rank 4.0)
+Score: 7-6(2) 3-6 6-4 7-6(3)
+
+Winner stats:
+- Aces: 12.0
+- Double faults: 5.0
+- 1st serve in: 81.0
+- 1st serve points won: 66.0
+- 2nd serve points won: 25.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 14.0
+- Double faults: 4.0
+- 1st serve in: 103.0
+- 1st serve points won: 77.0
+- 2nd serve points won: 20.0
+- Break points saved: 11.0 out of 13.0"	"Taylor Fritz carved out a groundbreaking moment on home soil Tuesday at the US Open.
+The 12th-seeded American edged fourth seed Alexander Zverev in an intriguing baseline battle in New York to reach his maiden Grand Slam semi-final. Fritz and Zverev went toe-to-toe from deep for much of their three-hour, 26-minute encounter, but the American’s greater consistency under pressure helped him earn a 7-6(2), 3-6, 6-4, 7-6(3) victory."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: QF
+
+Winner: Taylor Fritz (Rank: 12.0)
+Loser: Alexander Zverev (Rank: 4.0)
+Score: 7-6(2) 3-6 6-4 7-6(3)
+
+Winner stats:
+- Aces: 12.0
+- Double faults: 5.0
+- 1st serve in: 81.0
+- 1st serve points won: 66.0
+- 2nd serve points won: 25.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 14.0
+- Double faults: 4.0
+- 1st serve in: 103.0
+- 1st serve points won: 77.0
+- 2nd serve points won: 20.0
+- Break points saved: 11.0 out of 13.0"
+Us Open	QF	Hard	Jack Draper	Alex De Minaur	6-3 7-5 6-2	25.0	10.0	11.0	4.0	50.0	42.0	19.0	5.0	7.0	7.0	2.0	48.0	32.0	16.0	14.0	20.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: QF
+Surface: Hard
+
+Winner: Jack Draper (rank 25.0)
+Loser: Alex De Minaur (rank 10.0)
+Score: 6-3 7-5 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 4.0
+- 1st serve in: 50.0
+- 1st serve points won: 42.0
+- 2nd serve points won: 19.0
+- Break points saved: 5.0 out of 7.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 48.0
+- 1st serve points won: 32.0
+- 2nd serve points won: 16.0
+- Break points saved: 14.0 out of 20.0"	The 22-year-old lefty breezed past 10th seed Alex de Minaur 6-3, 7-5, 6-2 on Wednesday evening at the US Open to reach his maiden Grand Slam semi-final. Draper produced a display full of booming serves and heavy, spinning groundstrokes to earn a two-hour, seven-minute victory and book a last-four meeting with World No. 1 Jannik Sinner.	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: QF
+
+Winner: Jack Draper (Rank: 25.0)
+Loser: Alex De Minaur (Rank: 10.0)
+Score: 6-3 7-5 6-2
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 4.0
+- 1st serve in: 50.0
+- 1st serve points won: 42.0
+- 2nd serve points won: 19.0
+- Break points saved: 5.0 out of 7.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 2.0
+- 1st serve in: 48.0
+- 1st serve points won: 32.0
+- 2nd serve points won: 16.0
+- Break points saved: 14.0 out of 20.0"
+Wimbledon	R16	Grass	Jannik Sinner	Ben Shelton	6-2 6-4 7-6(9)	1.0	14.0	7.0	0.0	63.0	48.0	19.0	1.0	2.0	15.0	4.0	69.0	48.0	11.0	2.0	6.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Jannik Sinner (rank 1.0)
+Loser: Ben Shelton (rank 14.0)
+Score: 6-2 6-4 7-6(9)
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 0.0
+- 1st serve in: 63.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 19.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 15.0
+- Double faults: 4.0
+- 1st serve in: 69.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 11.0
+- Break points saved: 2.0 out of 6.0"	"Jannik Sinner shook off pre-match injury fears to deliver a statement quarter-final victory against Ben Shelton on Wednesday afternoon at Wimbledon.
+The No. 1 player in the PIF ATP Rankings produced a trademark rock-solid display to down Shelton 7-6(2), 6-4, 6-4 and reach the last four at the grass major for the second time. Sinner, who sustained an elbow injury and fell to a two-sets deficit before Grigor Dimitrov retired from the pair’s fourth-round clash, quickly eased any fears of serious damage to his arm by nullifying Shelton’s power across two hours and 19 minutes on No. 1 Court."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Jannik Sinner (Rank: 1.0)
+Loser: Ben Shelton (Rank: 14.0)
+Score: 6-2 6-4 7-6(9)
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 0.0
+- 1st serve in: 63.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 19.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 15.0
+- Double faults: 4.0
+- 1st serve in: 69.0
+- 1st serve points won: 48.0
+- 2nd serve points won: 11.0
+- Break points saved: 2.0 out of 6.0"
+Us Open	R16	Hard	Alexander Zverev	Brandon Nakashima	3-6 6-1 6-2 6-2	4.0	50.0	14.0	3.0	56.0	49.0	13.0	0.0	1.0	6.0	2.0	71.0	45.0	18.0	12.0	18.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Alexander Zverev (rank 4.0)
+Loser: Brandon Nakashima (rank 50.0)
+Score: 3-6 6-1 6-2 6-2
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 3.0
+- 1st serve in: 56.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 13.0
+- Break points saved: 0.0 out of 1.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 2.0
+- 1st serve in: 71.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 18.0
+- Break points saved: 12.0 out of 18.0"	"Alexander Zverev moved closer to capturing his first major title at the US Open on Sunday when he ended American Brandon Nakashima’s run to reach the quarter-finals in New York for the fourth time.
+The German dictated after a slow start on Louis Armstrong Stadium to earn a 3-6, 6-1, 6-2, 6-2 win. With his two-hour, 38-minute triumph, Zverev notched his 450th win."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: R16
+
+Winner: Alexander Zverev (Rank: 4.0)
+Loser: Brandon Nakashima (Rank: 50.0)
+Score: 3-6 6-1 6-2 6-2
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 3.0
+- 1st serve in: 56.0
+- 1st serve points won: 49.0
+- 2nd serve points won: 13.0
+- Break points saved: 0.0 out of 1.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 2.0
+- 1st serve in: 71.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 18.0
+- Break points saved: 12.0 out of 18.0"
+Us Open	QF	Hard	Jannik Sinner	Daniil Medvedev	6-2 1-6 6-1 6-4	1.0	5.0	4.0	1.0	51.0	39.0	28.0	6.0	8.0	5.0	6.0	61.0	41.0	20.0	10.0	15.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: QF
+Surface: Hard
+
+Winner: Jannik Sinner (rank 1.0)
+Loser: Daniil Medvedev (rank 5.0)
+Score: 6-2 1-6 6-1 6-4
+
+Winner stats:
+- Aces: 4.0
+- Double faults: 1.0
+- 1st serve in: 51.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 28.0
+- Break points saved: 6.0 out of 8.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 6.0
+- 1st serve in: 61.0
+- 1st serve points won: 41.0
+- 2nd serve points won: 20.0
+- Break points saved: 10.0 out of 15.0"	"Daniil Medvedev was dissatisfied and disheartened by his quarter-final exit at the hands of Jannik Sinner on Wednesday evening at the US Open. Yet in trademark fashion for one of the ATP Tour’s master tacticians, it did not take long for the World No. 5 to form a detailed assessment of his four-set defeat.
+“[It’s a] tough loss,” said Medvedev after Sinner’s 6-2, 1-6, 6-1, 6-4 triumph in New York."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: QF
+
+Winner: Jannik Sinner (Rank: 1.0)
+Loser: Daniil Medvedev (Rank: 5.0)
+Score: 6-2 1-6 6-1 6-4
+
+Winner stats:
+- Aces: 4.0
+- Double faults: 1.0
+- 1st serve in: 51.0
+- 1st serve points won: 39.0
+- 2nd serve points won: 28.0
+- Break points saved: 6.0 out of 8.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 6.0
+- 1st serve in: 61.0
+- 1st serve points won: 41.0
+- 2nd serve points won: 20.0
+- Break points saved: 10.0 out of 15.0"
+Australian Open	R16	Hard	Daniil Medvedev	Nuno Borges	6-3 7-6(4) 5-7 6-1	3.0	69.0	13.0	11.0	92.0	69.0	24.0	7.0	11.0	5.0	4.0	92.0	60.0	18.0	7.0	13.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Daniil Medvedev (rank 3.0)
+Loser: Nuno Borges (rank 69.0)
+Score: 6-3 7-6(4) 5-7 6-1
+
+Winner stats:
+- Aces: 13.0
+- Double faults: 11.0
+- 1st serve in: 92.0
+- 1st serve points won: 69.0
+- 2nd serve points won: 24.0
+- Break points saved: 7.0 out of 11.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 4.0
+- 1st serve in: 92.0
+- 1st serve points won: 60.0
+- 2nd serve points won: 18.0
+- Break points saved: 7.0 out of 13.0"	Daniil Medvedev is through to the Australian Open quarterfinals after beating Portugal's Nuno Borges 6-3, 7-6 (4), 5-7, 6-1 on Monday. Medvedev had two match points at 5-4 in the third set, but Borges forced a fourth set only to fade away as the Russian player pulled away for the victory.	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Daniil Medvedev (Rank: 3.0)
+Loser: Nuno Borges (Rank: 69.0)
+Score: 6-3 7-6(4) 5-7 6-1
+
+Winner stats:
+- Aces: 13.0
+- Double faults: 11.0
+- 1st serve in: 92.0
+- 1st serve points won: 69.0
+- 2nd serve points won: 24.0
+- Break points saved: 7.0 out of 11.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 4.0
+- 1st serve in: 92.0
+- 1st serve points won: 60.0
+- 2nd serve points won: 18.0
+- Break points saved: 7.0 out of 13.0"
+Roland Garros	QF	Clay	Jannik Sinner	Grigor Dimitrov	6-2 6-4 7-6(3)	2.0	10.0	8.0	0.0	53.0	43.0	23.0	1.0	2.0	5.0	5.0	67.0	45.0	17.0	6.0	10.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: QF
+Surface: Clay
+
+Winner: Jannik Sinner (rank 2.0)
+Loser: Grigor Dimitrov (rank 10.0)
+Score: 6-2 6-4 7-6(3)
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 0.0
+- 1st serve in: 53.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 23.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 5.0
+- 1st serve in: 67.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 17.0
+- Break points saved: 6.0 out of 10.0"	"Jannik Sinner extended his perfect record at majors in 2024 on Tuesday at Roland Garros, where he moved past Grigor Dimitrov 6-2, 6-4, 7-6(3) to reach the semi-finals in Paris for the first time.
+The Italian, who captured his maiden major title at the Australian Open in January, looked in control throughout his two-hour, 30-minute win against first-time Roland Garros quarter-finalist Dimitrov.
+The 22-year-old hit cleanly, moved freely and played with high intensity, responding after failing to serve out the match at 5-4 to seal victory in the third-set tie-break. Sinner struck 29 winners and broke Dimitrov’s serve four times according to Infosys Stats to improve to 4-1 in the pair’s Lexus ATP Head2Head series"	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Roland Garros
+Surface: Clay
+Round: QF
+
+Winner: Jannik Sinner (Rank: 2.0)
+Loser: Grigor Dimitrov (Rank: 10.0)
+Score: 6-2 6-4 7-6(3)
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 0.0
+- 1st serve in: 53.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 23.0
+- Break points saved: 1.0 out of 2.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 5.0
+- 1st serve in: 67.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 17.0
+- Break points saved: 6.0 out of 10.0"
+Wimbledon	R16	Grass	Alex De Minaur	Arthur Fils	6-2 6-4 4-6 6-3	9.0	34.0	2.0	4.0	60.0	43.0	27.0	9.0	14.0	8.0	7.0	71.0	40.0	23.0	7.0	16.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Alex De Minaur (rank 9.0)
+Loser: Arthur Fils (rank 34.0)
+Score: 6-2 6-4 4-6 6-3
+
+Winner stats:
+- Aces: 2.0
+- Double faults: 4.0
+- 1st serve in: 60.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 27.0
+- Break points saved: 9.0 out of 14.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 7.0
+- 1st serve in: 71.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 23.0
+- Break points saved: 7.0 out of 16.0"	"Australia's Alex De Minaur reached the Wimbledon quarter-finals for the first time as he beat rising Frenchman Arthur Fils 6-2 6-4 4-6 6-3 on Monday.
+The ninth seed looked in control for two sets against the 20-year-old but Fils, bidding to become the youngest Frenchman in the professional era to reach a Grand Slam quarter-final, responded superbly to extend the Court One contest."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Alex De Minaur (Rank: 9.0)
+Loser: Arthur Fils (Rank: 34.0)
+Score: 6-2 6-4 4-6 6-3
+
+Winner stats:
+- Aces: 2.0
+- Double faults: 4.0
+- 1st serve in: 60.0
+- 1st serve points won: 43.0
+- 2nd serve points won: 27.0
+- Break points saved: 9.0 out of 14.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 7.0
+- 1st serve in: 71.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 23.0
+- Break points saved: 7.0 out of 16.0"
+Australian Open	R16	Hard	Jannik Sinner	Karen Khachanov	6-4 7-5 6-3	4.0	15.0	8.0	3.0	52.0	41.0	26.0	9.0	10.0	7.0	0.0	61.0	40.0	14.0	3.0	8.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: R16
+Surface: Hard
+
+Winner: Jannik Sinner (rank 4.0)
+Loser: Karen Khachanov (rank 15.0)
+Score: 6-4 7-5 6-3
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 3.0
+- 1st serve in: 52.0
+- 1st serve points won: 41.0
+- 2nd serve points won: 26.0
+- Break points saved: 9.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 0.0
+- 1st serve in: 61.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 14.0
+- Break points saved: 3.0 out of 8.0"	"Jannik Sinner was forced to disconnect cruise control on his Australian Open campaign Sunday, but his gritty straight-sets win over Karen Khachanov only further confirmed that he is a serious title contender at Melbourne Park.
+After dropping just nine games in the second and third rounds, Sinner saw his game stress tested by the Olympic silver medallist, who held his own in extended, heavy-hitting side-to-side baseline exchanges with the World No. 4.
+
+After largely clean performances through the first three rounds, Khachanov drew 15 unforced errors from Sinner in the second set alone, but the fourth seed’s ability to defend nine of 10 break points faced throughout the match while converting five of eight proved decisive in the 6-4, 7-5, 6-3 win."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Australian Open
+Surface: Hard
+Round: R16
+
+Winner: Jannik Sinner (Rank: 4.0)
+Loser: Karen Khachanov (Rank: 15.0)
+Score: 6-4 7-5 6-3
+
+Winner stats:
+- Aces: 8.0
+- Double faults: 3.0
+- 1st serve in: 52.0
+- 1st serve points won: 41.0
+- 2nd serve points won: 26.0
+- Break points saved: 9.0 out of 10.0
+
+Loser stats:
+- Aces: 7.0
+- Double faults: 0.0
+- 1st serve in: 61.0
+- 1st serve points won: 40.0
+- 2nd serve points won: 14.0
+- Break points saved: 3.0 out of 8.0"
+Wimbledon	R16	Grass	Carlos Alcaraz	Ugo Humbert	6-3 6-4 1-6 7-5	3.0	16.0	14.0	6.0	95.0	63.0	17.0	8.0	13.0	10.0	1.0	67.0	45.0	17.0	2.0	8.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Ugo Humbert (rank 16.0)
+Score: 6-3 6-4 1-6 7-5
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 6.0
+- 1st serve in: 95.0
+- 1st serve points won: 63.0
+- 2nd serve points won: 17.0
+- Break points saved: 8.0 out of 13.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 1.0
+- 1st serve in: 67.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 17.0
+- Break points saved: 2.0 out of 8.0"	"Carlos Alcaraz passed another significant test at Wimbledon on Sunday, where he moved past free-hitting Frenchman Ugo Humbert 6-3, 6-4, 1-6, 7-5 to reach his ninth major quarter-final.
+In a hard-fought clash, Humbert outplayed Alcaraz for large periods, but the Spaniard produced trademark moments of magic at crucial times to resist the 16th seed and move to within three wins of successfully defending his Wimbledon title."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: R16
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Ugo Humbert (Rank: 16.0)
+Score: 6-3 6-4 1-6 7-5
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 6.0
+- 1st serve in: 95.0
+- 1st serve points won: 63.0
+- 2nd serve points won: 17.0
+- Break points saved: 8.0 out of 13.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 1.0
+- 1st serve in: 67.0
+- 1st serve points won: 45.0
+- 2nd serve points won: 17.0
+- Break points saved: 2.0 out of 8.0"
+Us Open	SF	Hard	Taylor Fritz	Frances Tiafoe	4-6 7-5 4-6 6-4 6-1	12.0	20.0	16.0	3.0	76.0	57.0	36.0	1.0	5.0	11.0	9.0	71.0	57.0	27.0	5.0	11.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: SF
+Surface: Hard
+
+Winner: Taylor Fritz (rank 12.0)
+Loser: Frances Tiafoe (rank 20.0)
+Score: 4-6 7-5 4-6 6-4 6-1
+
+Winner stats:
+- Aces: 16.0
+- Double faults: 3.0
+- 1st serve in: 76.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 36.0
+- Break points saved: 1.0 out of 5.0
+
+Loser stats:
+- Aces: 11.0
+- Double faults: 9.0
+- 1st serve in: 71.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 27.0
+- Break points saved: 5.0 out of 11.0"	"Taylor Fritz is one win away from ending the United States’ 21-year-wait for a male Grand Slam singles champion.
+The 12th seed rallied past longtime friend and fellow American Frances Tiafoe 4-6, 7-5, 4-6, 6-4, 6-1 on Friday evening to reach his first major final at the US Open. Andy Roddick triumphed at Flushing Meadows in 2003."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Us Open
+Surface: Hard
+Round: SF
+
+Winner: Taylor Fritz (Rank: 12.0)
+Loser: Frances Tiafoe (Rank: 20.0)
+Score: 4-6 7-5 4-6 6-4 6-1
+
+Winner stats:
+- Aces: 16.0
+- Double faults: 3.0
+- 1st serve in: 76.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 36.0
+- Break points saved: 1.0 out of 5.0
+
+Loser stats:
+- Aces: 11.0
+- Double faults: 9.0
+- 1st serve in: 71.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 27.0
+- Break points saved: 5.0 out of 11.0"
+Wimbledon	F	Grass	Carlos Alcaraz	Novak Djokovic	6-2 6-2 7-6(4)	3.0	2.0	5.0	6.0	56.0	47.0	20.0	2.0	3.0	8.0	4.0	71.0	47.0	12.0	9.0	14.0	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: F
+Surface: Grass
+
+Winner: Carlos Alcaraz (rank 3.0)
+Loser: Novak Djokovic (rank 2.0)
+Score: 6-2 6-2 7-6(4)
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 6.0
+- 1st serve in: 56.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 20.0
+- Break points saved: 2.0 out of 3.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 4.0
+- 1st serve in: 71.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 12.0
+- Break points saved: 9.0 out of 14.0"	"One potential disaster averted, and Carlos Alcaraz is a two-time Wimbledon champion.
+The Spaniard held off a late rally from Novak Djokovic to complete a 6-2, 6-2, 7-6(4) triumph on Sunday and successfully defend his title at the grass major. Alcaraz let slip three championship points from 5-4, 40/0 in the third set as Djokovic threatened to kick-start a comeback, but the 21-year-old held firm in the subsequent tie-break to complete an ultimately dominant win on Centre Court."	"You are a tennis journalist. Write a short, clear match report based on the following statistics.
+
+Tournament: Wimbledon
+Surface: Grass
+Round: F
+
+Winner: Carlos Alcaraz (Rank: 3.0)
+Loser: Novak Djokovic (Rank: 2.0)
+Score: 6-2 6-2 7-6(4)
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 6.0
+- 1st serve in: 56.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 20.0
+- Break points saved: 2.0 out of 3.0
+
+Loser stats:
+- Aces: 8.0
+- Double faults: 4.0
+- 1st serve in: 71.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 12.0
+- Break points saved: 9.0 out of 14.0"

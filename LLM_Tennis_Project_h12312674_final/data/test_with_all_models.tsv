@@ -1,0 +1,272 @@
+tourney_name	round	surface	winner_name	loser_name	score	input_text	target_text	t5_baseline_output	t5_finetuned_output	gpt41_output
+Us Open	R16	Hard	Daniil Medvedev	Nuno Borges	6-0 6-1 6-3	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Daniil Medvedev (rank 5.0)
+Loser: Nuno Borges (rank 34.0)
+Score: 6-0 6-1 6-3
+
+Winner stats:
+- Aces: 9.0
+- Double faults: 5.0
+- 1st serve in: 46.0
+- 1st serve points won: 36.0
+- 2nd serve points won: 14.0
+- Break points saved: 4.0 out of 5.0
+
+Loser stats:
+- Aces: 5.0
+- Double faults: 10.0
+- 1st serve in: 37.0
+- 1st serve points won: 20.0
+- 2nd serve points won: 19.0
+- Break points saved: 8.0 out of 16.0"	The fifth seed and 2021 titlist continued his impressive 2024 campaign at the New York major with a 6-0, 6-1, 6-3 fourth-round triumph against Nuno Borges on Monday afternoon. Medvedev was in control for almost all of the one-hour, 51-minute encounter, during which his only brief moment of peril came when he trailed by a break early in the third set.	: 36.0 - 2nd serve points won: 14.0. Break points saved: 4.0 out of 5.0 Loser stats:	Daniil Medvedev beat Nuno Borges 6-0, 6-1, 6-3 to reach the Us Open quarter-finals at the US Open on Saturday. The defending champion was beaten by a three-time champion in the first round of the tournament.	Daniil Medvedev defeated Nuno Borges 6-0, 6-1, 6-3 in the US Open Round of 16 on hard court. Medvedev served 9 aces and saved 4 out of 5 break points, while Borges struggled with 10 double faults and saving only 8 out of 16 break points. Despite Medvedev’s lower first serve percentage (46%) compared to Borges (37%), he dominated the match with overwhelming scorelines.
+Wimbledon	R16	Grass	Lorenzo Musetti	Giovanni Mpetshi Perricard	4-6 6-3 6-3 6-2	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Lorenzo Musetti (rank 25.0)
+Loser: Giovanni Mpetshi Perricard (rank 58.0)
+Score: 4-6 6-3 6-3 6-2
+
+Winner stats:
+- Aces: 3.0
+- Double faults: 0.0
+- 1st serve in: 63.0
+- 1st serve points won: 50.0
+- 2nd serve points won: 21.0
+- Break points saved: 0.0 out of 1.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 8.0
+- 1st serve in: 70.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 20.0
+- Break points saved: 10.0 out of 15.0"	"The Italian reached the last eight at a major for the first time on Monday at Wimbledon, where he ended the run of French lucky loser Giovanni Mpetshi Perricard with a 4-6, 6-3, 6-3, 6-2 victory.
+Mpetshi Perricard was celebrating his 21st birthday and entered the match high in confidence. The big-serving Frenchman defeated Sebastian Korda, Yoshihito Nishioka and Emil Ruusuvuori en route to his first fourth-round appearance at a major, hitting 105 aces across his first three matches.
+The Lyon champion was unable to fire at his best level against Musetti in the pair’s first Lexus ATP Head2Head meeting. The 25th seed broke Mpetshi Perricard’s serve five times and was the more consistent in the baseline exchanges, committing just eight unforced errors compared to 42 from his opponent."	: 3.0 - Double faults: 0.0, 1st serve in: 50.0  2nd serve points won: 21.0. Break points saved: 10.0 out of 15.0 Loser stats : 1.	Lorenzo Musetti beat Giovanni Mpetshi Perricard to reach the final of the Wimbledon round at Wimbledon on Saturday. The defending champion was beaten 4-6, 6-3, 3:3 and 6-2 in the second round.	Lorenzo Musetti defeated Giovanni Mpetshi Perricard 4-6, 6-3, 6-3, 6-2 in the Wimbledon round of 16 on grass. Despite Perricard hitting 10 aces and saving 10 of 15 break points, his 8 double faults and lower break point resilience cost him the match. Musetti served clean with no double faults and improved after losing the first set, securing the win with consistent play.
+Wimbledon	QF	Grass	Lorenzo Musetti	Taylor Fritz	3-6 7-6(5) 6-2 3-6 6-1	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: QF
+Surface: Grass
+
+Winner: Lorenzo Musetti (rank 25.0)
+Loser: Taylor Fritz (rank 12.0)
+Score: 3-6 7-6(5) 6-2 3-6 6-1
+
+Winner stats:
+- Aces: 7.0
+- Double faults: 3.0
+- 1st serve in: 83.0
+- 1st serve points won: 63.0
+- 2nd serve points won: 29.0
+- Break points saved: 5.0 out of 9.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 1.0
+- 1st serve in: 88.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 32.0
+- Break points saved: 7.0 out of 13.0"	"Lorenzo Musetti delivered arguably the Grand Slam performance of his career so far on Wednesday to outlast Taylor Fritz 3-6, 7-6(5), 6-2, 3-6. 6-1 at the grass-court major. In doing so, the 22-year-old became just the fourth Italian men’s singles semi-finalist in event history.
+Even after World No. 1 Jannik Sinner fell to Daniil Medvedev on Tuesday, Musetti gave an immediate reminder of the strength-in-depth of Italian tennis with a classy and composed display in his maiden major quarter-final. The 25th seed deployed his slice backhand to great effect to outfox an elite grass-court opponent and set a last-four meeting with Novak Djokovic."	: 63.0 - 1st serve points won: 29.0- Break points saved: 5.0 out of 9.0 Loser stats:- Aces 7.0. Double faults are 3.0, 83,0 and 1,0 in the first serve in: 88.0, 57.0, 2nd serve point wins: 32.0, Break point saved by 6.0 out from 9.0- Losers stat:: 10.0.	Lorenzo Musetti beat Taylor Fritz 3-6, 7-6(5), 6-2, 3-6, 6-1 to reach the quarter-finals of Wimbledon in the second round of the tournament. The defending champion was beaten by the Spaniard in a three-game thriller at Wimbledon.	Lorenzo Musetti defeated Taylor Fritz in a five-set quarterfinal clash at Wimbledon, 3-6, 7-6(5), 6-2, 3-6, 6-1 on grass. Musetti hit 7 aces and saved 5 of 9 break points, while Fritz recorded 10 aces and saved 7 of 13 break points. Despite Fritz's higher ranking and more aces, Musetti prevailed through key moments and endurance.
+Australian Open	QF	Hard	Daniil Medvedev	Hubert Hurkacz	7-6(4) 2-6 6-3 5-7 6-4	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: QF
+Surface: Hard
+
+Winner: Daniil Medvedev (rank 3.0)
+Loser: Hubert Hurkacz (rank 9.0)
+Score: 7-6(4) 2-6 6-3 5-7 6-4
+
+Winner stats:
+- Aces: 11.0
+- Double faults: 10.0
+- 1st serve in: 110.0
+- 1st serve points won: 86.0
+- 2nd serve points won: 29.0
+- Break points saved: 10.0 out of 15.0
+
+Loser stats:
+- Aces: 16.0
+- Double faults: 5.0
+- 1st serve in: 89.0
+- 1st serve points won: 72.0
+- 2nd serve points won: 27.0
+- Break points saved: 5.0 out of 9.0"	"In a four-hour quarter-final full of twists and turns, Daniil Medvedev overcame a fourth-set dip to defeat fellow Top 10 star Hubert Hurkacz on Wednesday at the Australian Open.
+With his 7-6(4), 2-6, 6-3, 5-7, 6-4 victory, the third seed advanced to the Melbourne semis for the third time in four years. On the heels of a Wimbledon semi-final run and a US Open final appearance, Medvedev has now reached the last four at three consecutive Grand Slam tournaments."	: 89.0 - 1st serve in: 110.0. '110.0' Double faults: 10.0- 0nd serve points won: 86.0- 2nd serving points win: 29.0- Break points saved: 1.0 out of 15.0 Loser stats :: 7-6(4) 2-6 6-3 5-7 6-4	Daniil Medvedev beat Hubert Hurkacz 7-6(4) 2-6 6-3 5-7 6-4 to reach the Australian Open quarter-finals at the Melbourne Open on Sunday. The defending champion was beaten by a three-time champion in the first round of the tournament. Medvdev was the third seed to win his first Australian open round match in three years.	Daniil Medvedev defeated Hubert Hurkacz in a five-set thriller 7-6(4), 2-6, 6-3, 5-7, 6-4 in the Australian Open quarterfinals on hard court. Medvedev served 11 aces but struggled with 10 double faults, while saving 10 of 15 break points and winning 86% of his first serve points. Hurkacz hit 16 aces with 5 double faults, converting 72% of his first serve points but saved only 5 of 9 break points.
+Wimbledon	SF	Grass	Novak Djokovic	Lorenzo Musetti	6-4 7-6(2) 6-4	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: SF
+Surface: Grass
+
+Winner: Novak Djokovic (rank 2.0)
+Loser: Lorenzo Musetti (rank 25.0)
+Score: 6-4 7-6(2) 6-4
+
+Winner stats:
+- Aces: 6.0
+- Double faults: 4.0
+- 1st serve in: 69.0
+- 1st serve points won: 52.0
+- 2nd serve points won: 15.0
+- Break points saved: 2.0 out of 4.0
+
+Loser stats:
+- Aces: 2.0
+- Double faults: 1.0
+- 1st serve in: 82.0
+- 1st serve points won: 50.0
+- 2nd serve points won: 12.0
+- Break points saved: 9.0 out of 13.0"	"Novak Djokovic moved to within one win of capturing a record-equalling eighth Wimbledon title on Friday when he ended Lorenzo Musetti’s run. The Serbian earned a 6-4, 7-6(2), 6-4 win against the 22-year-old Italian to set a blockbuster rematch of last year’s final with Carlos Alcaraz.
+In a hard-fought clash, Djokovic locked in at crucial moments, repelling Musetti’s court craft with impressive defence and consistency. The Italian fended off three match points from 0/40, 3-5 in the third set before Djokovic saved one break point to serve out and reach his 10th Wimbledon final after two hours and 48 minutes."	won: 69.0 - 1st serve in: 52.0  2nd serve points won : 15.0 – Break points saved: 2.0 out of 4.0 Loser stats: 1. Do NOT invent any extra facts or numbers.	Novak Djokovic beat Lorenzo Musetti 6-4, 7-6(2), 6-2 to reach the final of the Wimbledon Round. The defending champion was beaten by the Spaniard in the second round at Wimbledon.	Novak Djokovic defeated Lorenzo Musetti 6-4, 7-6(2), 6-4 in the Wimbledon semifinal on grass. Djokovic served 6 aces and saved 2 of 4 break points, while Musetti faced 13 break points, saving 9. Musetti had a higher first serve percentage at 82%, but Djokovic secured the win with a strong serving performance overall.
+Us Open	R16	Hard	Alex De Minaur	Jordan Thompson	6-0 3-6 6-3 7-5	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Alex De Minaur (rank 10.0)
+Loser: Jordan Thompson (rank 32.0)
+Score: 6-0 3-6 6-3 7-5
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 7.0
+- 1st serve in: 52.0
+- 1st serve points won: 41.0
+- 2nd serve points won: 27.0
+- Break points saved: 1.0 out of 4.0
+
+Loser stats:
+- Aces: 6.0
+- Double faults: 2.0
+- 1st serve in: 73.0
+- 1st serve points won: 44.0
+- 2nd serve points won: 20.0
+- Break points saved: 6.0 out of 13.0"	"Alex de Minaur reached his third consecutive major quarter-final on Monday at the US Open, where he overcame fellow Australian Jordan Thompson 6-0, 3-6, 6-3, 7-5 under the lights in New York.
+The 10th seed raced out of the blocks to take command early and showed great foot speed throughout on Louis Armstrong, tracking down drop volleys and flat Thompson groundstrokes to reach the last eight after two hours and 57 minutes."	: 6-0 3-6 6-3 7-5 Winner stats: (Aces) 5.0 - Double faults, 7.0, 1st serve in: 52.0.'successful': 41.0, 2nd serve points won: 27.0, Break points saved: 1 out of 4.0 Loser statistics: -- Aces 6.0, 2,0 and 20.0.	Alex De Minaur beat Jordan Thompson 6-0 3-6 6-3, 7-5 to reach the Us Open quarter-finals at the US Open on Saturday. The defending champion was beaten by Thompson in the first round of the tournament.	Alex De Minaur advanced to the US Open quarterfinals with a 6-0, 3-6, 6-3, 7-5 victory over Jordan Thompson on hard courts. Despite Thompson’s higher first serve percentage (73%) and greater break points saved (6 of 13), De Minaur managed to secure key moments, including saving 1 of 4 break points. De Minaur also delivered 5 aces but struggled with 7 double faults, ultimately overcoming Thompson's consistent play.
+Roland Garros	QF	Clay	Alexander Zverev	Alex De Minaur	6-4 7-6(5) 6-4	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Roland Garros
+Round: QF
+Surface: Clay
+
+Winner: Alexander Zverev (rank 4.0)
+Loser: Alex De Minaur (rank 11.0)
+Score: 6-4 7-6(5) 6-4
+
+Winner stats:
+- Aces: 2.0
+- Double faults: 5.0
+- 1st serve in: 76.0
+- 1st serve points won: 53.0
+- 2nd serve points won: 15.0
+- Break points saved: 5.0 out of 8.0
+
+Loser stats:
+- Aces: 3.0
+- Double faults: 4.0
+- 1st serve in: 45.0
+- 1st serve points won: 28.0
+- 2nd serve points won: 27.0
+- Break points saved: 1.0 out of 6.0"	"Alexander Zverev booked his spot in the Roland Garros semi-finals for the fourth consecutive year on Wednesday when he overcame 11th seed Alex de Minaur 6-4, 7-6(5), 6-4.
+Under the lights on Court Philippe-Chatrier, the German was not at his fluid best at times but dug deep when needed to record a straight-sets victory against De Minaur. Zverev responded after squandering a break advantage in the first set to take the opener. He then rallied from a 3/5 deficit in the second-set tie-break to take full command."	won: 53.0 - 2nd serve points won. 15.0. Break points saved: 5.0 out of 8.0 Loser stats:	Alexander Zverev beat Alex De Minaur 6-4, 7-6(5), 6-2 to reach the final of the Roland Garros Open. The defending champion was beaten by a three-time champion in the second round.	Alexander Zverev defeated Alex De Minaur 6-4, 7-6(5), 6-4 in the Roland Garros quarterfinal on clay. Zverev served 76% first serves and saved 5 of 8 break points, while De Minaur struggled with a 45% first serve percentage and saved just 1 of 6 break points. Despite more double faults from Zverev, his consistency on the first serve and break point resilience secured the straight-sets victory.
+Us Open	R16	Hard	Frances Tiafoe	Alexei Popyrin	6-4 7-6(3) 2-6 6-3	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Us Open
+Round: R16
+Surface: Hard
+
+Winner: Frances Tiafoe (rank 20.0)
+Loser: Alexei Popyrin (rank 28.0)
+Score: 6-4 7-6(3) 2-6 6-3
+
+Winner stats:
+- Aces: 14.0
+- Double faults: 1.0
+- 1st serve in: 61.0
+- 1st serve points won: 47.0
+- 2nd serve points won: 32.0
+- Break points saved: 6.0 out of 9.0
+
+Loser stats:
+- Aces: 24.0
+- Double faults: 9.0
+- 1st serve in: 66.0
+- 1st serve points won: 55.0
+- 2nd serve points won: 24.0
+- Break points saved: 2.0 out of 5.0"	"Frances Tiafoe rising to the occasion at the US Open has become an annual tradition. The final major of the 2024 season has proven no different.
+The 20th seed advanced to the quarter-finals at Flushing Meadows for a third consecutive year on Sunday evening when he defeated 28th seed Alexei Popyrin 6-4, 7-6(3), 2-6, 6-3 in three hours and two minutes."	won: 32.0 - Break points saved: 6.0 out of 9.0 Loser stats: -- 6-4 7-6(3) 2-6 6-3 Winner stat:: 1-Asset: 14.0. Double faults 1.0 – 1st serve in: 61.0, 61,0, 2nd serve points win: 47.0, 47.2, 32.6, Break point saved : 24.0, 2,0 and 22.0. Do NOT invent extra facts or numbers. Tournament: Us Open Round: R16 Surface	Frances Tiafoe beat Alexei Popyrin 6-4, 7-6(3), 2-6, 6-3 to reach the Us Open quarter-finals at the US Open on Sunday. It was the first time a team-mate to win the match.	Frances Tiafoe defeated Alexei Popyrin 6-4, 7-6(3), 2-6, 6-3 in the US Open Round of 16 on hard courts. Tiafoe served 14 aces with only one double fault and saved six of nine break points, while Popyrin hit 24 aces but committed nine double faults and saved two of five break points. Despite Popyrin's higher first serve percentage and points won on the first serve, Tiafoe’s resilience in key moments secured his victory.
+Australian Open	QF	Hard	Jannik Sinner	Andrey Rublev	6-4 7-6(5) 6-3	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Australian Open
+Round: QF
+Surface: Hard
+
+Winner: Jannik Sinner (rank 4.0)
+Loser: Andrey Rublev (rank 5.0)
+Score: 6-4 7-6(5) 6-3
+
+Winner stats:
+- Aces: 10.0
+- Double faults: 3.0
+- 1st serve in: 75.0
+- 1st serve points won: 57.0
+- 2nd serve points won: 22.0
+- Break points saved: 8.0 out of 8.0
+
+Loser stats:
+- Aces: 10.0
+- Double faults: 2.0
+- 1st serve in: 71.0
+- 1st serve points won: 54.0
+- 2nd serve points won: 11.0
+- Break points saved: 5.0 out of 7.0"	"Jannik Sinner’s charge at the Australian Open shows little sign of abating.
+The fourth-seeded Italian swept aside Andrey Rublev 6-4, 7-6(5), 6-3 on Tuesday night in Melbourne to maintain his perfect sets record at the 2024 edition of the hard-court Grand Slam. Sinner delivered a high-quality quarter-final display to prevail in a two-hour, 39-minute battle between two of the biggest ballstrikers on the ATP Tour."	: 57.0 - 2nd serve points won: 22.0. Break points saved: 8.0 out of 7.0 Loser stats: 10.0 – Double faults : 3.0  1st serve in: 75.0'0sth serve point winning: 51.023476(5) 6-3.	Jannik Sinner beat Andrey Rublev 6-4, 7-6(5), 6-3 to reach the Australian Open quarter-finals in the second round of the tournament. The former world no. 1 was beaten 6-2,7,6(5) and 3-6.	Jannik Sinner defeated Andrey Rublev 6-4, 7-6(5), 6-3 in the Australian Open quarterfinal on hard court. Sinner served 10 aces, saved all eight break points against him, and won 57% of his first serve points. Rublev also hit 10 aces but saved only 5 of 7 break points and won fewer second serve points (11% vs 22%).
+Wimbledon	R16	Grass	Novak Djokovic	Holger Rune	6-3 6-4 6-2	"You are a sports journalist. Write a short, factual tennis match report in MAXIMUM 3 sentences.
+Use ONLY the information from the stats below. Do NOT invent any extra facts or numbers.
+
+Tournament: Wimbledon
+Round: R16
+Surface: Grass
+
+Winner: Novak Djokovic (rank 2.0)
+Loser: Holger Rune (rank 15.0)
+Score: 6-3 6-4 6-2
+
+Winner stats:
+- Aces: 5.0
+- Double faults: 2.0
+- 1st serve in: 51.0
+- 1st serve points won: 38.0
+- 2nd serve points won: 21.0
+- Break points saved: 2.0 out of 2.0
+
+Loser stats:
+- Aces: 3.0
+- Double faults: 4.0
+- 1st serve in: 43.0
+- 1st serve points won: 30.0
+- 2nd serve points won: 18.0
+- Break points saved: 10.0 out of 14.0"	"Novak Djokovic earned a statement win on Monday at Wimbledon, dismissing Holger Rune 6-3, 6-4, 6-2 in the latest chapter of the pair’s rivalry to reach the quarter-finals.
+Djokovic has been pushed to the limit by Rune in the past, with the Dane winning two of their previous five Lexus ATP Head2Head meetings, including the Rolex Paris Masters final in 2022.
+However, the 21-year-old struggled to impose his aggressive game on Djokovic under the roof on Centre Court, where the Serbian hugged the baseline to control the tempo of the match. The seven-time champion dominated on serve throughout, winning 75 per cent of first serves and an eye-popping 72 per cent of second serves. Djokovic also saved the two break points he faced to earn his most impressive win of this year’s Championships after two hours and three minutes."	: 38.0 - 1st serve points won: 21.0. Break points saved: 2.0 out of 2.0 Loser stats: 6-3 6-4 6-2 Winner stat :: 3.0'Double faults' 4.0  0123456879100*3*2*4*1*6*8*7*9*5*0 *0=0+** ***0	Novak Djokovic beat Holger Rune 6-3, 6-4 6-2 in the second round of the Wimbledon Open. The defending champion was beaten by the Spaniard in a three-set thriller at Wimbledon.	Novak Djokovic defeated Holger Rune 6-3, 6-4, 6-2 in the Wimbledon Round of 16 on grass. Djokovic served 5 aces with a 51% first serve rate and saved 2 out of 2 break points, while Rune managed 3 aces and saved 10 out of 14 break points despite hitting 4 double faults. Djokovic’s superior serving and break point efficiency secured his straight-sets victory.
